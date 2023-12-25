@@ -11,6 +11,6 @@
 * Export the transaction history for any address tags /notes as a CSV file with historical prices;
 * Explore marketing possibilities with token API and display Widgets;
 
-[Binplorer API](https://github.com/amilabs/Binplorer/wiki/Binplorer-API)
+[Binplorer API](https://github.com/amilabs/Binplorer/zeeradex1/Binplorer-API)
 
 https://Binplorer.com
